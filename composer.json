@@ -1,0 +1,14 @@
+{
+    "name": "atid/atid-upcoming-api",
+    "description": "This plugin is developed for the use of Atid School only.",
+    "type": "wordpress-plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Emilio Rosas Parra",
+            "email": "emilio.parra@rizomadev.com"
+        }
+    ]
+}
